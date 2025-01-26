@@ -1,9 +1,44 @@
 [
-    {
-      "id": "1",
-      "name": "Marcela",
-      "years": "4",
-      "superhost": true,
-      "image": "https://a0.muscache.com/im/pictures/user/c1b7f06f-3eb7-4d51-b898-650065be982e.jpg?im_w=240"
-    }
+  {
+    "id": "1",
+    "name": "Marcela",
+    "years": "4",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/c1b7f06f-3eb7-4d51-b898-650065be982e.jpg?im_w=240"
+  },
+  {
+    "id": "2",
+    "name": "Frederico",
+    "years": "4",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/2578b8f4-70d4-414e-b0c0-ca49ef22f545.jpg?im_w=240"
+  },
+  {
+    "id": "3",
+    "name": "William",
+    "years": "2",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/User/original/fae78e9d-04ae-4ff9-a58d-23f3d3b14115.jpeg?im_w=240"
+  },
+  {
+    "id": "4",
+    "name": "Carlos",
+    "years": "13",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/dd486a2a-5689-4bf0-93b2-0b1b4ff6536f.jpg?im_w=240&im_format=avif"
+  },
+  {
+    "id": "5",
+    "name": "Bernardo",
+    "years": "3",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/eb2d2b92-d6aa-4d91-b319-35dae52a2423.jpg?im_w=240&im_format=avif"
+  },
+  {
+    "id": "6",
+    "name": "Brenda",
+    "years": "3",
+    "superhost": true,
+    "image": "https://a0.muscache.com/im/pictures/user/36984851-df0d-4fe7-92fa-36af0a5b341e.jpg?im_w=240&im_format=avif"
+  }
 ]

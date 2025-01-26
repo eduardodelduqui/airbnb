@@ -1,8 +1,9 @@
-'use client'
+"use client";
 
-import React, { ReactElement, useState } from 'react';
-import { Carousel as ResponsiveCarousel } from 'react-responsive-carousel';
+import React, { ReactElement, useState } from "react";
+import { Carousel as ResponsiveCarousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import styles from "./Carousel.module.css";
 
 type CarouselProps = {
   children: ReactElement[];
@@ -11,6 +12,7 @@ type CarouselProps = {
   showThumbs?: boolean;
   showStatus?: boolean;
   showIndicators?: boolean;
+  showPageNumber?: boolean;
   rounded?: boolean;
 };
 
@@ -21,6 +23,7 @@ const Carousel: React.FC<CarouselProps> = ({
   showThumbs = false,
   showStatus = false,
   showIndicators = true,
+  showPageNumber = true,
   rounded = false,
 }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -32,28 +35,54 @@ const Carousel: React.FC<CarouselProps> = ({
   const renderArrowPrev = (clickHandler: () => void, hasPrev: boolean) =>
     hasPrev && (
       <div
-        onClick={clickHandler}
-        className="absolute top-1/2 left-2 transform -translate-y-1/2 z-10 bg-white/50 w-8 h-8 rounded-full flex items-center justify-center cursor-pointer"
+        onClick={(event) => {
+          event.preventDefault();
+          clickHandler();
+        }}
+        className={`${styles.arrow} ${styles.arrow_prev}`}
       >
-        <img src="/icons/arrow-prev.svg" alt="Previous" className="w-4 h-4" />
+        <img
+          src="/icons/arrow-prev.svg"
+          alt="Previous"
+          className={styles.arrow_icon}
+        />
       </div>
     );
 
   const renderArrowNext = (clickHandler: () => void, hasNext: boolean) =>
     hasNext && (
       <div
-        onClick={clickHandler}
-        className="absolute top-1/2 right-2 transform -translate-y-1/2 z-10 bg-white/50 w-8 h-8 rounded-full flex items-center justify-center cursor-pointer"
+        onClick={(event) => {
+          event.preventDefault();
+          clickHandler();
+        }}
+        className={`${styles.arrow} ${styles.arrow_next}`}
       >
-        <img src="/icons/arrow-next.svg" alt="Next" className="w-4 h-4" />
+        <img
+          src="/icons/arrow-next.svg"
+          alt="Next"
+          className={styles.arrow_icon}
+        />
       </div>
     );
 
+  const PageNumber: React.FC<{ showPageNumber: boolean }> = ({
+    showPageNumber,
+  }) => {
+    if (showPageNumber) {
+      return (
+        <div className={styles.pageNumber}>
+          {`${currentIndex + 1}/${children.length}`}
+        </div>
+      );
+    }
+  };
+
   return (
-    <div className="w-full relative">
+    <div className={styles.container}>
       <ResponsiveCarousel
         autoPlay={autoPlay}
-        showArrows={showArrows}
+        showArrows={true}
         showThumbs={showThumbs}
         showStatus={showStatus}
         infiniteLoop={false}
@@ -65,10 +94,11 @@ const Carousel: React.FC<CarouselProps> = ({
         swipeScrollTolerance={50}
         swipeable={true}
         preventMovementUntilSwipeScrollTolerance={true}
-        className={rounded ? "rounded-xl overflow-hidden" : "overflow-hidden"}
+        className={rounded ? styles.layout_rounded : styles.layout}
       >
         {children}
       </ResponsiveCarousel>
+      <PageNumber showPageNumber={showPageNumber} />
     </div>
   );
 };

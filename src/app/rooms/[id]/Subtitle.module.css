@@ -1,0 +1,10 @@
+.subTitle {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+@media (min-width: 768px) {
+  .subTitle {
+    font-size: 22px;
+  }
+}

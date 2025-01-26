@@ -1,0 +1,44 @@
+.container {
+  display: block;
+  transition: cubic-bezier(1, 0, 0, 1);
+}
+
+.title {
+  font-size: 22px;
+  color: var(--default-black);
+  font-weight: 600;
+}
+
+.list {
+  transition: max-height 1s ease-in-out;
+  max-height: 9999px;
+  opacity: 1;
+  overflow: hidden;
+}
+
+.list.collapsed {
+  max-height: 300px;
+  pointer-events: none;
+}
+
+.section_title {
+  padding: 16px 0;
+  font-weight: 600;
+}
+
+.item {
+  display: flex;
+  color: var(--default-black);
+  font-size: 16px;
+  gap: 16px;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--default-border-color);
+}
+
+.expandButton {
+  display: block;
+  padding: 12px 24px;
+  border: 1px solid var(--default-black);
+  border-radius: 8px;
+  margin-top: 32px;
+}

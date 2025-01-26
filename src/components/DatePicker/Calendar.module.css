@@ -1,0 +1,51 @@
+.container {
+  position: relative;
+  width: max-content;
+}
+
+.monthWrapper {
+  display: flex;
+  gap: 1.75rem;
+}
+
+.month {
+  width: max-content;
+}
+
+.monthTitle {
+  font-weight: 600;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.weekDay {
+  width: 3rem;
+  height: 3rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #444;
+}
+
+.navigationButton {
+  position: absolute;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5rem;
+  height: 1.5rem;
+  cursor: pointer;
+}
+
+.nextButton {
+  right: 0;
+}
+
+.prevButton {
+  left: 0;
+}
+
+.arrowIcon {
+  width: 0.75rem;
+  height: 0.75rem;
+}

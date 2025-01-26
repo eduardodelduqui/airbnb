@@ -1,0 +1,11 @@
+.header {
+  padding-top: 0.875rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.feedContainer {
+  padding: 0 1.5rem 3.5rem;
+  min-height: 100vh;
+  font-family: var(--font-geist-sans);
+}

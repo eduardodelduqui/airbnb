@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1.25rem;
+  color: var(--default-gray);
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.buttonDisabled {
+  cursor: not-allowed;
+  opacity: 50%;
+}
+
+.value {
+  font-size: 1rem;
+}

@@ -1,0 +1,21 @@
+.section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.ellipsed-text {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}
+
+.button {
+  font-weight: 500;
+  text-decoration: underline;
+  margin-top: 1rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}

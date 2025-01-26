@@ -1,0 +1,37 @@
+.datepickerDay {
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 48px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.datepickerDayDisabled {
+  text-decoration: line-through;
+  opacity: 0.35;
+}
+
+.datepickerSelectedDay {
+  color: #fff;
+  background-color: var(--default-black);
+  border: none;
+  border-radius: 100%;
+}
+
+.datepickerRangeDay {
+  background-color: #f7f7f7;
+  border-radius: 0;
+}
+
+.datepickerRangeDayStart {
+  border-top-left-radius: 100%;
+  border-bottom-left-radius: 100%;
+}
+
+.datepickerRangeDayEnd {
+  border-top-right-radius: 100%;
+  border-bottom-right-radius: 100%;
+}

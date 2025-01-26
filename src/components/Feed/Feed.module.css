@@ -1,0 +1,34 @@
+.feed {
+  display: grid;
+  gap: 2.5rem;
+}
+
+@media (min-width: 550px) {
+  .feed {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 950px) {
+  .feed {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1128px) {
+  .feed {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1640px) {
+  .feed {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1880px) {
+  .feed {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}

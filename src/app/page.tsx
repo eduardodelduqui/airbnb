@@ -1,18 +1,23 @@
 import CategoryBarWrapper from "@/components/CategoryBar/CategoryWrapper";
-import FeedWrapper from "@/components/FeedWrapper";
-import Header from "@/components/Header";
+import FeedWrapper from "@/components/Feed/FeedWrapper";
+import Header from "@/components/Header/Header";
+import styles from "./page.module.css";
 
-export default async function Home({ searchParams }: { searchParams: { category?: string } }) {
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{ category?: string }>;
+}) {
   const params = await searchParams;
   const selectedCategory = params.category || "chales";
 
   return (
     <main>
-      <header className="pt-3.5 mb-6 shadow-bottom">
-        <Header/>
+      <header className={styles.header}>
+        <Header />
         <CategoryBarWrapper selectedCategory={selectedCategory} />
       </header>
-      <div className="px-6 min-h-screen font-[family-name:var(--font-geist-sans)]">
+      <div className={styles.feedContainer}>
         <FeedWrapper category={selectedCategory} />
       </div>
     </main>
