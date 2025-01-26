@@ -1,8 +1,8 @@
+import { ICategory } from "@/app/types/interfaces";
 import CategoryBar from "./CategoryBar";
-import { Category } from "@/app/types/interfaces";
 
-const getCategories = async (): Promise<Category[]> => {
-  const response = await fetch("http://localhost:3000/api/categories", { cache: "no-store" });
+const getCategories = async (): Promise<ICategory[]> => {
+  const response = await fetch("http://localhost:3000/api/categories");
   return response.json();
 };
 
@@ -13,5 +13,7 @@ export default async function CategoryBarWrapper({
 }) {
   const categories = await getCategories();
 
-  return <CategoryBar categories={categories} selectedCategory={selectedCategory} />;
+  return (
+    <CategoryBar categories={categories} selectedCategory={selectedCategory} />
+  );
 }

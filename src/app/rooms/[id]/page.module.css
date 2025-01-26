@@ -1,0 +1,149 @@
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.header {
+  display: none;
+  padding: 1rem 0;
+}
+
+.hiddenMobile {
+  display: none;
+}
+
+.hiddenTablet {
+  display: block;
+}
+
+.main {
+  min-height: 100vh;
+  font-family: var(--font-geist-sans);
+  padding-bottom: 5rem;
+}
+
+.relative {
+  position: relative;
+}
+
+.backButton {
+  position: absolute;
+  top: 0.875rem;
+  left: 1rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  z-index: 10;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.carouselImage {
+  height: 100%;
+  object-fit: cover;
+}
+
+.roomTitle {
+  font-size: 26px;
+  font-weight: 600;
+  color: var(--default-black);
+  line-height: 1.875rem;
+  margin-bottom: 1.5rem;
+}
+
+.contentContainer {
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+
+.bookingBoxContainer {
+  display: none;
+  position: relative;
+  margin-left: 17.333%;
+}
+
+.section {
+  padding-bottom: 0.5rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  min-height: 5rem;
+  width: 100%;
+  padding: 1rem 1.5rem;
+  background-color: #ffffff;
+}
+
+.footerDetails {
+  color: var(--default-black);
+}
+
+.footerPrice {
+  text-decoration: underline;
+}
+
+.footerPriceHighlight {
+  font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.footerDate {
+  font-size: 0.75rem;
+}
+
+.bookingButton {
+  padding: 0.875rem 2.5rem;
+  background-color: #e51d52;
+  color: #ffffff;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  line-height: 1rem;
+}
+
+@media (min-width: 768px) {
+  .hiddenTablet {
+    display: none;
+  }
+
+  .hiddenMobile {
+    display: block;
+  }
+}
+
+@media (min-width: 950px) {
+  .container {
+    padding: 0 2.5rem;
+  }
+
+  .header {
+    display: block;
+  }
+
+  .contentContainer {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    box-sizing: border-box;
+    padding: 32px 0 0 0;
+  }
+
+  .bookingBoxContainer {
+    display: block;
+  }
+
+  .footer {
+    display: none;
+  }
+
+  .backButton {
+    display: none;
+  }
+}
+
+@media (min-width: 1128px) {
+  .container {
+    padding: 0 5rem;
+  }
+}

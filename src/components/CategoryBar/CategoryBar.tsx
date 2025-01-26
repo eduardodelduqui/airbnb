@@ -1,30 +1,44 @@
-'use client';
+"use client";
 
+import { ICategory } from "@/app/types/interfaces";
 import { useRouter } from "next/navigation";
-import { Category } from "@/app/types/interfaces";
-import CategoryItem from "./CategoryItem";
+import styles from "./CategoryBar.module.css";
 
 type CategoryBarClientProps = {
-  categories: Category[];
+  categories: ICategory[];
   selectedCategory: string;
 };
 
-export default function CategoryBarClient({ categories, selectedCategory }: CategoryBarClientProps) {
+export default function CategoryBarClient({
+  categories,
+  selectedCategory,
+}: CategoryBarClientProps) {
   const router = useRouter();
 
   const handleCategoryClick = (category: string) => {
     router.push(`/?category=${category}`);
   };
 
+  const CategoryItem: React.FC<ICategory> = ({ image, text, url, id }) => {
+    return (
+      <div className={styles.categoryItem}>
+        <img src={image} alt={text} className={styles.categoryItem__image} />
+        <p className={styles.categoryItem__name}>{text}</p>
+      </div>
+    );
+  };
+
   return (
     <nav>
-      <ul className="grid grid-flow-col px-6 gap-4 overflow-auto scrollbar-w-none">
+      <ul className={styles.navBar}>
         {categories.map((category) => (
           <li
             key={category.id}
             onClick={() => handleCategoryClick(category.id)}
-            className={`flex flex-col gap-1 justify-center items-center cursor-pointer relative ${
-              selectedCategory === category.id ? "opacity-100 selected-category" : "opacity-60"
+            className={`${styles.navBar__item} ${
+              selectedCategory === category.id
+                ? styles.navBar__item__selected
+                : ""
             }`}
           >
             <CategoryItem

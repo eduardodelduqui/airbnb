@@ -1,0 +1,17 @@
+.featuresList {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.featureItem {
+  font-size: 0.875rem;
+}
+
+.separator {
+  font-size: 0.75rem;
+}
+
+.featureText {
+  padding-left: 0.375rem;
+}

@@ -1,10 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-small: 14px;
+  --line-height-small: 20px;
+  --default-black: #222222;
+  --default-border-color: #22222230;
+  --default-gray: #6a6a6a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,12 +19,20 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin: 0 24px;
+  height: 56px;
+}
+
+pre {
+  font-family: unset;
 }
 
 .control-dots .dot {
@@ -32,12 +41,8 @@ body {
   margin: 0 2px !important;
 }
 
-.carousel {
-  position: relative;
-}
-
 .slider-wrapper {
-  aspect-ratio: 1/0.95
+  aspect-ratio: 1/0.95;
 }
 
 .slider {
@@ -51,21 +56,6 @@ body {
 }
 
 .carousel .control-arrow {
-  background-color: transparent; /* Remove o fundo */
+  background-color: transparent;
   color: #fff;
 }
-
-.scrollbar-w-none {
-  scrollbar-width: none;
-}
-
-.selected-category::after {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: 0;
-  height: 2px;
-  width: 100%;
-  background: #353535
-}
-

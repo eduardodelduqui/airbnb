@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "title": "Charmosa estadia na Lagoa de Fora, Florianópolis",
     "category": "beira-do-lago",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -13,6 +14,42 @@
     "isNight": true,
     "rating": "4,97",
     "popular": true,
+    "reviews": "524",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "1",
+    "description": "Curta momentos inesquecíveis na charmosa cidade de Florianópolis, na região da Lagoa de Fora. Relaxe à beira da lagoa em um ambiente acolhedor e desfrute de dias tranquilos com todo o conforto que você merece. Perfeito para casais ou famílias pequenas, este espaço oferece uma vista incrível, comodidades modernas e fácil acesso à natureza. Aproveite a cozinha totalmente equipada para preparar refeições especiais e relaxe sob o céu estrelado. Uma experiência única em um cenário deslumbrante aguarda por você!",
     "images": [
       "https://a0.muscache.com/im/pictures/41ddfc91-51a3-4ecf-ab34-05bcc667183b.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/2cfeac16-cae6-4032-ba90-98173146d656.jpg?im_w=720&im_q=highq",
@@ -33,6 +70,7 @@
   },
   {
     "id": "2",
+    "title": "Acomodação incrível em Florianópolis",
     "category": "beira-do-lago",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -45,6 +83,42 @@
     "isNight": true,
     "rating": "4,95",
     "popular": true,
+    "reviews": "678",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "1",
+    "description": "Desfrute de uma estadia tranquila na Lagoa da Conceição, em Florianópolis. Esta charmosa casa à beira do lago oferece conforto e comodidades modernas, com uma vista deslumbrante e acesso rápido à natureza. Relaxe em um ambiente acolhedor, prepare refeições na cozinha equipada e aproveite para explorar as belezas naturais ao redor. Ideal para quem busca um refúgio sereno com todo o conforto necessário para momentos inesquecíveis!",
     "images": [
       "https://a0.muscache.com/im/pictures/cc2a86d3-15f5-4d4b-bcee-9cf76a0193b3.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/miso/Hosting-48366316/original/7e7315c9-d2d8-4c3a-94d8-56c01415d447.jpeg?im_w=720&im_q=highq",
@@ -84,6 +158,42 @@
     "price": "R$ 276",
     "isNight": true,
     "rating": "4,93",
+    "reviews": "359",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "1",
+    "description": "Relaxe em uma charmosa cabana à beira da lagoa em Florianópolis. Com uma banheira de hidromassagem privativa e uma vista espetacular, esta acomodação oferece um refúgio perfeito para quem busca tranquilidade e contato com a natureza. Aproveite o pomar e a horta local, e à noite, contemple o céu estrelado diretamente da varanda. Equipamentos modernos, incluindo Wi-Fi ultrarrápido e Netflix, garantem conforto total durante sua estadia.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-22017604/original/10626fc3-1c74-49b0-989c-b68702a33c0d.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/eff775b6-b068-4b34-ab27-e4dbb0e85a24.jpg?im_w=720&im_q=highq",
@@ -97,7 +207,7 @@
   },
   {
     "id": "4",
-    "title": "Cabana com hidro e vista espetacular |Rio do Campo",
+    "title": "Chalé encantador com hidromassagem e vista espetacular",
     "category": "chales",
     "city": "Taiozinho",
     "country": "Brasil",
@@ -109,8 +219,9 @@
     "isNight": true,
     "rating": "4,99",
     "popular": true,
-    "reviews": "123",
+    "reviews": "1754",
     "allPlace": true,
+    "minimumRangeDays": 3,
     "details": {
       "guests": "2",
       "beds": "2",
@@ -118,13 +229,31 @@
       "kitchen": "1"
     },
     "amenities": {
-      "wifi": "93 Mbps",
-      "pets": true,
-      "netflix": true,
-      "air-condition": true,
-      "parking-lot": true
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
     },
-    "host": "1",
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "2",
     "description": "Curta a natureza com todo o conforto e relaxe na banheira de hidromassagem com vistas espetaculares! Localizada na cidade de  Rio do Campo, com uma lagoa em frente a sua porta, horta, pomar e balanços para você se reconectar com a natureza! Prepare refeições na nossa cozinha totalmente equipada e relaxe sob um milhão de estrelas! Vem viver essa experiência!",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-46928838/original/0959d2e9-8855-43eb-9f97-cdb7f22cedd1.jpeg?im_w=720&im_q=highq",
@@ -160,6 +289,7 @@
   },
   {
     "id": "5",
+    "title": "Chalé aconchegante com hidromassagem e vista deslumbrante",
     "category": "chales",
     "city": "Urubici",
     "country": "Brasil",
@@ -170,6 +300,42 @@
     "price": "R$ 464",
     "isNight": true,
     "rating": "4,92",
+    "reviews": "196",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "2",
+    "description": "Encante-se com a harmonia de Benedito Novo neste luxuoso chalé equipado com uma banheira de hidromassagem e uma ampla área ao ar livre. O ambiente é perfeito para famílias ou casais que desejam relaxar em meio à natureza, sem abrir mão de conforto como Netflix, Wi-Fi rápido e ar-condicionado. Uma experiência inesquecível para quem aprecia charme e exclusividade.",
     "images": [
       "https://a0.muscache.com/im/pictures/6f413250-38c9-490a-b288-8b5d3b670084.jpg?im_w=1440&im_q=highq",
       "https://a0.muscache.com/im/pictures/d4fcbdd5-3c1b-4222-b2cf-5ae53e705a28.jpg?im_w=1440&im_q=highq",
@@ -195,6 +361,7 @@
   },
   {
     "id": "6",
+    "title": "Luxuoso chalé com hidromassagem e vista deslumbrante",
     "category": "chales",
     "city": "Benedito Novo",
     "country": "Brasil",
@@ -206,6 +373,42 @@
     "isNight": true,
     "rating": "4,96",
     "popular": true,
+    "reviews": "42",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "2",
+    "description": "Encante-se com a harmonia de Benedito Novo neste luxuoso chalé equipado com uma banheira de hidromassagem e uma ampla área ao ar livre. O ambiente é perfeito para famílias ou casais que desejam relaxar em meio à natureza, sem abrir mão de conforto como Netflix, Wi-Fi rápido e ar-condicionado. Uma experiência inesquecível para quem aprecia charme e exclusividade.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-639859140466159074/original/c58e6ecc-6090-4251-9bbe-433c4da640c7.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/miso/Hosting-639859140466159074/original/80753db8-8fed-4dcb-abab-8077e7fd88c0.jpeg?im_w=720&im_q=highq",
@@ -240,6 +443,7 @@
   },
   {
     "id": "7",
+    "title": "Chalé encantador com hidromassagem e vista para a natureza",
     "category": "chales",
     "city": "Rio dos Cedros",
     "country": "Brasil",
@@ -251,6 +455,42 @@
     "isNight": true,
     "rating": "4,88",
     "popular": true,
+    "reviews": "47",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "2",
+    "description": "Curta a natureza com todo o conforto e relaxe na banheira de hidromassagem com vistas espetaculares! Localizada na cidade de  Rio do Campo, com uma lagoa em frente a sua porta, horta, pomar e balanços para você se reconectar com a natureza! Prepare refeições na nossa cozinha totalmente equipada e relaxe sob um milhão de estrelas! Vem viver essa experiência!",
     "images": [
       "https://a0.muscache.com/im/pictures/c6925a7f-00ea-49ad-99e9-211cf242d8ee.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/f4ecc609-7fd3-4017-9879-82017ac60e0e.jpg?im_w=720&im_q=highq",
@@ -284,6 +524,7 @@
   },
   {
     "id": "8",
+    "title": "Luxuoso chalé com vista deslumbrante e hidromassagem",
     "category": "chales",
     "city": "Urubici",
     "country": "Brasil",
@@ -295,6 +536,42 @@
     "isNight": true,
     "rating": "4,96",
     "popular": true,
+    "reviews": "14",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "2",
+    "description": "Descubra o encanto de Urubici em um chalé que mistura luxo e simplicidade. Ideal para quem busca relaxamento, esta acomodação oferece banheira de hidromassagem, cozinha totalmente equipada e uma atmosfera que combina modernidade e rusticidade. Acomode-se e aproveite uma das melhores classificações da região!",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-544871820662837031/original/95414da6-c0c1-4cea-ba0b-d570ce87367d.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/miso/Hosting-544871820662837031/original/8951c671-084c-45d6-8989-7e4a86fd17b8.jpeg?im_w=720&im_q=highq",
@@ -329,6 +606,7 @@
   },
   {
     "id": "9",
+    "title": "Chalé exclusivo frente ao mar com hidromassagem",
     "category": "frente-praia",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -341,6 +619,42 @@
     "isNight": true,
     "rating": "4,95",
     "popular": true,
+    "reviews": "58",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "3",
+    "description": "Viva a experiência de estar frente ao mar em Florianópolis, na Praia do Morro das Pedras. Este chalé exclusivo oferece banheira de hidromassagem, Wi-Fi veloz e todas as comodidades que você precisa para uma estadia inesquecível. Perfeito para admirar o nascer do sol e ouvir o som das ondas enquanto relaxa.",
     "images": [
       "https://a0.muscache.com/im/pictures/35f4196e-5687-4391-beba-2b7671664412.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/269e470f-57de-45aa-8f48-4a538b0fe933.jpg?im_w=720&im_q=highq",
@@ -375,6 +689,7 @@
   },
   {
     "id": "10",
+    "title": "Chalé frente ao mar com vista deslumbrante",
     "category": "frente-praia",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -387,6 +702,42 @@
     "isNight": true,
     "rating": "4,95",
     "isNew": true,
+    "reviews": "42",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "3",
+    "description": "Localizado na Ponta das Canas, em Florianópolis, este chalé frente ao mar é perfeito para momentos inesquecíveis. Recentemente renovado, oferece um ambiente acolhedor, com Netflix, ar-condicionado e Wi-Fi. Relaxe com uma vista de tirar o fôlego e aproveite a proximidade das praias mais bonitas da região.",
     "images": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1288477448117824143/original/2734f83a-aef6-4435-bace-54415db8a358.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1288477448117824143/original/49a26fb4-e2c3-4ce7-a86b-b26a61f20963.jpeg?im_w=720&im_q=highq",
@@ -405,6 +756,7 @@
   },
   {
     "id": "11",
+    "title": "Casa sofisticada com vista para o mar e conforto moderno",
     "category": "frente-praia",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -417,6 +769,42 @@
     "isNight": true,
     "rating": "4,95",
     "popular": true,
+    "reviews": "74",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "3",
+    "description": "Desfrute de uma estadia sofisticada na Praia do Morro das Pedras. Este chalé oferece um equilíbrio perfeito entre natureza e conforto, com Wi-Fi, ar-condicionado e uma cozinha moderna. Ideal para quem busca uma fuga tranquila com vistas deslumbrantes e a brisa do mar ao seu alcance.",
     "images": [
       "https://a0.muscache.com/im/pictures/1324064c-9a6b-4f1d-b4b1-f5c86f2287b4.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/c4059dfc-851c-4f5c-9124-8508092b6fbc.jpg?im_w=720&im_q=highq",
@@ -450,6 +838,7 @@
   },
   {
     "id": "12",
+    "title": "Cabana nas alturas com vistas panorâmicas",
     "category": "nas-alturas",
     "city": "Himachal Pradesh",
     "country": "Índia",
@@ -461,6 +850,42 @@
     "price": "R$123",
     "isNight": true,
     "rating": "4,98",
+    "reviews": "211",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "4",
+    "description": "Descubra Himachal Pradesh, na Índia, em uma estadia nas alturas. A 3.810 metros de altitude, esta cabana oferece vistas panorâmicas das montanhas e um refúgio acolhedor com Wi-Fi, cozinha equipada e um ambiente único. Perfeito para aventureiros que buscam tranquilidade e conexão com a natureza.",
     "images": [
       "https://a0.muscache.com/im/pictures/944b9510-945e-47cd-bd7d-bc1b5b94ba4b.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/df4a61cd-f5f8-42e1-92fe-c7d953b6fabb.jpg?im_w=720&im_q=highq",
@@ -483,6 +908,7 @@
   },
   {
     "id": "13",
+    "title": "Chalé nas alturas com vistas deslumbrantes",
     "category": "nas-alturas",
     "city": "Rakchham",
     "country": "Índia",
@@ -494,6 +920,42 @@
     "price": "R$146",
     "isNight": true,
     "rating": "4,8",
+    "reviews": "156",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "4",
+    "description": "Encontre paz e serenidade em Rakchham, Índia. Localizado a 3.166 metros de altitude, este chalé é uma jóia nas montanhas. Aproveite o ar fresco, comodidades modernas e uma vista que impressiona. Ideal para aventureiros e amantes da natureza que procuram uma experiência única nas alturas.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-51935866/original/1afb744f-3c3c-40f3-a0b1-934a8e344e5c.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/miso/Hosting-51935866/original/75285c2e-cab2-4b75-a7da-a789ac4d6e90.jpeg?im_w=720&im_q=highq",
@@ -523,6 +985,7 @@
   },
   {
     "id": "14",
+    "title": "Incrível casa com vista espetacular",
     "category": "nas-alturas",
     "city": "Colorado",
     "country": "Estados Unidos",
@@ -535,6 +998,42 @@
     "isNight": true,
     "rating": "5,0",
     "popular": true,
+    "reviews": "105",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "4",
+    "description": "Descubra o charme das montanhas do Colorado, Estados Unidos, em um refúgio situado a 3.351 metros de altitude. Com uma avaliação perfeita de 5 estrelas, esta cabana é um verdadeiro refúgio para quem busca conforto e vistas deslumbrantes. Relaxe na banheira de hidromassagem enquanto contempla paisagens alpinas de tirar o fôlego. A propriedade oferece internet de alta velocidade, estacionamento gratuito, e é pet-friendly, garantindo uma experiência completa. Com uma cozinha equipada e espaços confortáveis, este é o destino ideal para casais ou viajantes solos que desejam desconectar do mundo e se reconectar com a natureza.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-749996089802009824/original/8fefceb0-da83-461c-9441-1dc5ce1c0174.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/prohost-api/Hosting-749996089802009824/original/99931a90-870f-4827-bb41-885519215f74.jpeg?im_w=720&im_q=highq",
@@ -569,6 +1068,7 @@
   },
   {
     "id": "15",
+    "title": "Casa com piscina incrível e vista espetacular",
     "category": "piscinas-incriveis",
     "city": "Canasvieiras",
     "country": "Brasil",
@@ -580,6 +1080,42 @@
     "isNight": true,
     "rating": "4,98",
     "popular": true,
+    "reviews": "98",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "5",
+    "description": "Explore a beleza de Canasvieiras, no litoral catarinense, hospedando-se em uma propriedade com piscina incrível. Este refúgio combina conforto e diversão, com um ambiente moderno e completo. Relaxe em uma das áreas de lazer e aproveite o Wi-Fi para compartilhar momentos com amigos e familiares. A poucos minutos da praia, esta hospedagem é ideal para quem quer aproveitar o melhor do litoral brasileiro com uma atmosfera tranquila e acolhedora.",
     "images": [
       "https://a0.muscache.com/im/pictures/2ee83bde-f315-410c-beb7-94667a7b822b.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/59e0530f-e1f9-4c79-a337-22b2a9a0e9b4.jpg?im_w=720&im_q=highq",
@@ -600,6 +1136,7 @@
   },
   {
     "id": "16",
+    "title": "Refúgio com Piscina e Conforto em Florianópolis",
     "category": "piscinas-incriveis",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -611,6 +1148,42 @@
     "isNight": true,
     "rating": "5,0",
     "popular": true,
+    "reviews": "52",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "5",
+    "description": "Florianópolis encanta por sua diversidade, e esta propriedade com piscina é um convite para dias de relaxamento absoluto. Situada próxima ao centro, mas com a tranquilidade de um refúgio particular, a acomodação oferece uma combinação perfeita de comodidade e beleza. Desfrute de internet rápida, áreas de lazer e uma cozinha totalmente equipada para preparar suas refeições favoritas. Ideal para casais ou pequenos grupos, este destino é garantia de memórias inesquecíveis.",
     "images": [
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1260069902570518469/original/187b61cb-e80f-4c2c-bd92-e2f34b9844b8.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-1260069902570518469/original/c98f1224-d31a-41dc-a352-b5e29096ed9b.jpeg?im_w=720&im_q=highq",
@@ -636,6 +1209,7 @@
   },
   {
     "id": "17",
+    "title": "Refúgio Luxuoso com Piscina e Vista Deslumbrante",
     "category": "piscinas-incriveis",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -647,6 +1221,42 @@
     "isNight": true,
     "rating": "4,94",
     "popular": true,
+    "reviews": "71",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "5",
+    "description": "Localizado na charmosa Florianópolis, este refúgio com piscina combina luxo e funcionalidade. A propriedade está equipada com tudo o que você precisa para uma estadia inesquecível, incluindo Wi-Fi, estacionamento e espaços confortáveis para relaxar após um dia explorando as praias e trilhas da região. Com uma piscina deslumbrante e áreas de lazer bem planejadas, este é o lugar perfeito para recarregar as energias e aproveitar momentos únicos com amigos ou família.",
     "images": [
       "https://a0.muscache.com/im/pictures/308955be-0940-4e1d-af59-f8eb9c8382ed.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/68b6ff35-3b17-4443-9f55-60ae0348c840.jpg?im_w=720&im_q=highq",
@@ -680,6 +1290,7 @@
   },
   {
     "id": "18",
+    "title": "Deslumbrante quarto com vista para o oceano",
     "category": "vistas-incriveis",
     "city": "Garopaba",
     "country": "Brasil",
@@ -692,6 +1303,42 @@
     "isNight": true,
     "rating": "4,95",
     "popular": true,
+    "reviews": "185",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "6",
+    "description": "Garopaba oferece vistas incríveis para o oceano, e esta propriedade está perfeitamente posicionada para aproveitar o melhor dessa experiência. Relaxe em uma banheira de hidromassagem enquanto admira o horizonte ou aproveite as áreas internas bem equipadas. A propriedade é ideal para aqueles que buscam conforto, tranquilidade e uma conexão única com o mar. Com cozinha completa, espaço para convidados e um ambiente acolhedor, este é um lugar que promete encantar a todos.",
     "images": [
       "https://a0.muscache.com/im/pictures/e12f2dfa-5f29-4375-841d-82fddf0aef15.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/5a083ccc-d462-4381-882b-fc3ed3b6e989.jpg?im_w=720&im_q=highq",
@@ -715,6 +1362,7 @@
   },
   {
     "id": "19",
+    "title": "Quarto Luxuoso com Vista para o Oceano e Piscina",
     "category": "vistas-incriveis",
     "city": "Florianópolis",
     "country": "Brasil",
@@ -727,6 +1375,42 @@
     "isNight": true,
     "rating": "5,0",
     "popular": true,
+    "reviews": "176",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "6",
+    "description": "Florianópolis é um paraíso para quem aprecia vistas deslumbrantes, e esta propriedade com vista para o oceano não decepciona. Com uma piscina maravilhosa e áreas de lazer aconchegantes, você pode desfrutar de momentos de tranquilidade em um ambiente moderno e funcional. A hospedagem oferece Wi-Fi, estacionamento e todas as comodidades para tornar sua estadia confortável e inesquecível. Ideal para quem busca explorar a beleza natural da região enquanto desfruta de uma estadia luxuosa.",
     "images": [
       "https://a0.muscache.com/im/pictures/miso/Hosting-979151303876722157/original/e72c53ba-e27a-4871-9928-63ce7da8f471.jpeg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/b2c8d728-afb8-430d-80b6-bb2a657190e7.jpg?im_w=720&im_q=highq",
@@ -760,6 +1444,7 @@
   },
   {
     "id": "20",
+    "title": "Refúgio com Vistas Panorâmicas e Conforto Moderno",
     "category": "vistas-incriveis",
     "city": "Canasvieiras",
     "country": "Brasil",
@@ -772,6 +1457,42 @@
     "isNight": true,
     "rating": "4,98",
     "popular": true,
+    "reviews": "189",
+    "allPlace": true,
+    "minimumRangeDays": 3,
+    "details": {
+      "guests": "2",
+      "beds": "2",
+      "bathrooms": "1",
+      "kitchen": "1"
+    },
+    "amenities": {
+      "bathroom": ["bathtub", "hotWater", "outdoorShower"],
+      "bedroomAndLaundry": ["bedLinens", "curtainBlackout"],
+      "entertainment": ["tv", "poolTable"],
+      "cooling": ["airConditioning"],
+      "internetAndOffice": ["wifi"],
+      "kitchenAndDining": [
+        "basicCookingItems",
+        "dishesAndSilverware",
+        "miniFridge",
+        "kitchen"
+      ],
+      "outdoorFeatures": ["outdoorDiningArea", "bbqGrill"],
+      "parkingAndFacilities": ["freeParking", "jacuzzi", "pool"],
+      "services": ["breakfast"]
+    },
+    "minNumberGuests": {
+      "adults": 1
+    },
+    "maxNumberGuests": {
+      "adults": 2,
+      "childs": 3,
+      "infants": 3,
+      "pets": 0
+    },
+    "host": "6",
+    "description": "Encante-se com as vistas panorâmicas de Canasvieiras, que vão do vale à cidade, enquanto aproveita uma estadia confortável e completa. Este refúgio exclusivo combina modernidade e elegância, com piscina, áreas de lazer e comodidades para tornar sua estadia perfeita. Ideal para famílias ou grupos que buscam explorar as belezas naturais e as atrações culturais da região, esta propriedade é um convite para relaxar e aproveitar momentos inesquecíveis.",
     "images": [
       "https://a0.muscache.com/im/pictures/f653ff20-3b95-4820-a5bb-fc436a16b316.jpg?im_w=720&im_q=highq",
       "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NTEzOTY4ODc%3D/original/9f4876cd-d35f-413d-889e-932fa1c25fca.jpeg?im_w=720&im_q=highq",

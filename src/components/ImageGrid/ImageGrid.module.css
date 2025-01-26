@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  grid-template-areas:
+    "image-0 image-0 image-1 image-2"
+    "image-0 image-0 image-3 image-4";
+  gap: 8px;
+  border-radius: 1rem;
+  overflow: hidden;
+}

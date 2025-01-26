@@ -1,0 +1,98 @@
+.container {
+  display: grid;
+  gap: 12px;
+}
+
+.imageWrapper {
+  position: relative;
+}
+
+.carousel_image {
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel_imageWrapper {
+  position: relative;
+}
+
+.infoBox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.favoriteFlag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 12px;
+}
+
+.favoriteFlag_Image {
+  width: 24px;
+  height: 24px;
+}
+
+.popularFlag {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 12px;
+}
+
+.popularFlag_Text {
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: #fff;
+  border-radius: 999px;
+  white-space: nowrap;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.details {
+  display: grid;
+  gap: 4px;
+  line-height: 19px;
+  font-size: 15px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location {
+  font-weight: 500;
+  color: #000;
+}
+
+.rating {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.rating_icon {
+  width: 12px;
+  height: 12px;
+}
+
+.subtitle {
+  color: var(--default-gray);
+}
+
+.dateRange {
+  color: var(--default-gray);
+}
+
+.price {
+  margin: 6px 0;
+}
+
+.price_value {
+  font-weight: 500;
+}

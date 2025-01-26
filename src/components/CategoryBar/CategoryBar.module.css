@@ -1,0 +1,64 @@
+.navBar {
+  display: grid;
+  grid-auto-flow: column;
+  padding: 0 1.5rem;
+  gap: 1rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.navBar::-webkit-scrollbar {
+  display: none;
+}
+
+.navBar__item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+  opacity: 0.6;
+}
+
+.navBar__item:hover {
+  opacity: 0.8;
+}
+
+.navBar__item__selected {
+  opacity: 1;
+}
+
+.navBar__item__selected::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  width: 100%;
+  background: #707070;
+}
+
+.categoryItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.categoryItem__image {
+  width: 24px;
+  height: 24px;
+}
+
+.categoryItem__name {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-align: center;
+  width: max-content;
+}

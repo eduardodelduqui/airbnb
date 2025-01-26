@@ -1,9 +1,9 @@
 import Feed from "./Feed";
 
 const getListings = async (category: string) => {
-  const response = await fetch(`http://localhost:3000/api/listings?categoryId=${category}`, {
-    cache: "no-store",
-  });
+  const response = await fetch(
+    `http://localhost:3000/api/listings?categoryId=${category}`
+  );
   return response.json();
 };
 
